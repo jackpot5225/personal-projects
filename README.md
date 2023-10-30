@@ -1,2 +1,4 @@
 # personal-projects
-A collection of small personal projects
+A collection of small personal projects.</br></br>
+
+
